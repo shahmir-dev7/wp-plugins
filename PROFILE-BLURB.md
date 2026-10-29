@@ -1,0 +1,1 @@
+WordPress and WooCommerce developer. I build small production-grade plugins with tests, CI and security reviews: COD fraud scoring, city-based shipping and COD rules, 404 redirect tooling and content auditing. See [wp-plugins](https://github.com/shahmir-dev7/wp-plugins).
